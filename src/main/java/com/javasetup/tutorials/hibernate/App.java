@@ -32,6 +32,7 @@ public class App
        System.out.println("Inside....Hibenate app main");
        System.out.println("Inside....new message");
        System.out.println("Inside....Added another message");
+       System.out.println("A new message by me.");
        //Configuration config=new Configuration().configure().addAnnotatedClass(Student.class);
 //       Configuration configuration = new Configuration();
 //       configuration.addAnnotatedClass(Student.class);
